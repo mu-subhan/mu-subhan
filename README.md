@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Muhammad Subhan | Software Engineer
-- 👀 I’m interested in tech side and AI 
+- 👀 I’m interested in AI and Software development 
 - 🌱 I’m currently learning backend developement 
 - 💞️ I’m looking to collaborate on open source and as well as ai project , Hakathon
 - 📫 How to reach me muhammadsubhan8934@gmail.com
