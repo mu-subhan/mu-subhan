@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning backend developement 
 - 💞️ I’m looking to collaborate on open source and as well as ai project , Hakathon
 - 📫 How to reach me muhammadsubhan8934@gmail.com
+or connect with me on Linkdin https://www.linkedin.com/in/muhammad-subhan-321821231/
 - 😄 Pronouns: his/him
 - ⚡ Fun fact: ...
 
