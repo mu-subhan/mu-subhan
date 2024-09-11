@@ -21,13 +21,19 @@ or connect with me on Linkdin https://www.linkedin.com/in/muhammad-subhan-321821
 
 ## 📊 GitHub Stats
 
-![Muhammad Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&count_private=true)
+![Muhammad Subhan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=mu-subhan&show_icons=true&theme=radical&count_private=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-subhan&layout=compact&theme=radical)
 
 ## 🔥 Streak Stats
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=YOUR_USERNAME&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=mu-subhan&theme=radical)
+
+## 🏆 Achievements
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mu-subhan&theme=radical)
+
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
 
 
 <!---
