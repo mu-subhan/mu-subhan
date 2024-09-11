@@ -39,4 +39,4 @@ React, Next.js, Express.js, Tailwind CSS
 
 ## 📫 Connect with me
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/muhammad subhan)
+- LinkedIn: [Your LinkedIn](https://linkedin.com/in/muhammad-subhan-321821231)
