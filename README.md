@@ -5,7 +5,18 @@
 - 📫 How to reach me muhammadsubhan8934@gmail.com
 or connect with me on Linkdin https://www.linkedin.com/in/muhammad-subhan-321821231/
 - 😄 Pronouns: his/him
-- ⚡ Fun fact: ...
+
+
+
+## 🔧 Languages and Tools
+
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=nextdotjs)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+
 
 <!---
 mu-subhan/mu-subhan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
