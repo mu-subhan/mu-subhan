@@ -33,7 +33,7 @@ or connect with me on Linkdin https://www.linkedin.com/in/muhammad-subhan-321821
 
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=mu-subhan&theme=radical)
 
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=YOUR_USERNAME&theme=github)
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=mu-subhan&theme=github)
 
 
 <!---
