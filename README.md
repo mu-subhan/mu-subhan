@@ -1,5 +1,5 @@
 ## 👋 Hi, I'm Muhammad Subhan 
--  I am a  Software Engineer.
+-  I'm a  Software Engineer.
 - 🌱 I’m currently learning Nodejs ans Express
 - 👯 I’m looking to collaborate on web development and AI projects
 - ⚡ Fun fact: I love working on creative frontend solutions
