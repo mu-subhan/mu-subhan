@@ -12,7 +12,7 @@
 - A system for tracking inventory in real-time.
 
 ### [Chat AI App](#)
-- Built with Next.js, OpenAI API
+- Built with Next.js,TypeScript,Tailwind Css OpenAI API
 - An AI-powered customer support chatbot.
 
 ## 🛠️ Skills & Technologies
