@@ -18,7 +18,8 @@
 ## 🛠️ Skills & Technologies
 
 **Languages:**  
-JavaScript, TypeScript,C, C++,HTML,CSS
+JavaScript, TypeScript,C, C++,HTML,CSS,MYsql
+
 
 **Frameworks & Libraries:**  
 React, Next.js, Express.js, Tailwind CSS
