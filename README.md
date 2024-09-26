@@ -13,7 +13,7 @@
 
 ### [Chat AI App](#)
 - Built with Next.js,TypeScript,Tailwind Css OpenAI API
-- An AI-powered customers support chatbot.
+-  AI-powered customers support chatbot.
 
 ## 🛠️ Skills & Technologies
 
