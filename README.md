@@ -9,7 +9,7 @@
 
 ### [Inventory Management System](#)
 - Built with React, Node.js, MongoDB
-- A system for tracking inventory in real-time.
+- A system for tracking inventory in real time.
 
 ### [Chat AI App](#)
 - Built with Next.js,TypeScript,Tailwind Css OpenAI API
