@@ -17,7 +17,7 @@
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**  
+**Languages:**
 JavaScript, TypeScript,C, C++,HTML,CSS,MYsql
 
 
