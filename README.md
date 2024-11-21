@@ -1,28 +1,44 @@
-## 👋 Hi, I am Muhammad Subhan 
--  I'm a  Software Engineer.
-- 🌱 I’m currently learning Nodejs ans Express
-- 👯 I’m looking to collaborate on web development and AI projects
-- ⚡ Fun fact: I love working on creative frontend solutions
--   Contact with me muhammadsubhan8934@gmail.com
+# 👋 Hi, I am Muhammad Subhan
+
+A **Software Engineer** passionate about creative frontend solutions and efficient backend development.
+
+- 🌱 I’m currently learning **Node.js** and **Express.js**
+- 👯 I’m looking to collaborate on **web development** and **AI projects**
+- ⚡ Fun fact: I love solving challenging problems with technology.
+- 📧 Contact me at: **muhammadsubhan8934@gmail.com**
+
+---
 
 ## 🚀 Featured Projects
 
-### [Inventory Management System](#)
-- Built with React, Node.js, MongoDB
-- A system for tracking inventory in real time.
+### 🔹 [Inventory Management System](#)
+- **Tech Stack:** React, Node.js, MongoDB  
+- A system for tracking inventory in real-time.
 
-### [Chat AI App](#)
-- Built with Next.js,TypeScript,Tailwind Css OpenAI API
--  AI-powered customers support chatbot.
+### 🔹 [Chat AI App](#)
+- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
+- An AI-powered customer support chatbot.
+
+---
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**
-JavaScript, TypeScript,C, C++,HTML,CSS,MYsql
-
+**Languages:**  
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
 **Frameworks & Libraries:**  
-React, Next.js, Express.js, Tailwind CSS
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+
+---
 
 ## 📊 GitHub Stats
 
@@ -30,16 +46,22 @@ React, Next.js, Express.js, Tailwind CSS
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mu-subhan&layout=compact&theme=radical)
 
+---
+
 ## 🔥 Streak Stats
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=mu-subhan&theme=radical)
 
+---
+
 ## 🏅 Achievements
 
 - [Certificate: Introduction to Career Skills in Software Development](#)
-- [OOP](#)
-- [Bootcamp Certificate Html,Css Js](#)
+- [Certificate: OOP](#)
+- [Bootcamp Certificate: HTML, CSS, JavaScript](#)
 
-## 📫 Connect with me
+---
 
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/muhammad-subhan-321821231)
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-subhan-321821231)
