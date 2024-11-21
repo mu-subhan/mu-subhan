@@ -12,22 +12,23 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 
 ## 🛠️ Skills & Technologies
 
-**Languages:**  
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)  
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+## 🛠️ Skills & Technologies  
 
-**Frameworks & Libraries:**  
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge)
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+### **Languages:**  
+<img src="assets/javascript_circle.png" alt="JavaScript" width="80" height="80"/>  
+<img src="assets/typescript_circle.png" alt="TypeScript" width="80" height="80"/>  
+<img src="assets/c_circle.png" alt="C" width="80" height="80"/>  
+<img src="assets/cpp_circle.png" alt="C++" width="80" height="80"/>  
+<img src="assets/html_circle.png" alt="HTML" width="80" height="80"/>  
+<img src="assets/css_circle.png" alt="CSS" width="80" height="80"/>  
+<img src="assets/mysql_circle.png" alt="MySQL" width="80" height="80"/>  
 
----
+### **Frameworks & Libraries:**  
+<img src="assets/react_circle.png" alt="React" width="80" height="80"/>  
+<img src="assets/nextjs_circle.png" alt="Next.js" width="80" height="80"/>  
+<img src="assets/express_circle.png" alt="Express.js" width="80" height="80"/>  
+<img src="assets/tailwind_circle.png" alt="Tailwind CSS" width="80" height="80"/>  
+
 
 ## 📊 GitHub Stats
 
