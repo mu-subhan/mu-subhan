@@ -9,17 +9,6 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 
 ---
 
-## 🚀 Featured Projects
-
-### 🔹 [Inventory Management System](#)
-- **Tech Stack:** React, Node.js, MongoDB  
-- A system for tracking inventory in real-time.
-
-### 🔹 [Chat AI App](#)
-- **Tech Stack:** Next.js, TypeScript, Tailwind CSS, OpenAI API  
-- An AI-powered customer support chatbot.
-
----
 
 ## 🛠️ Skills & Technologies
 
