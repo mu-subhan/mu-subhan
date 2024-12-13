@@ -5,7 +5,12 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 - 🌱 I’m currently learning **Node.js** and **Express.js** and **Socket.io**
 - 👯 I’m looking to collaborate on **web development** and **AI projects**
 - ⚡ Fun fact: I love solving challenging problems with technology.
-- 📧 Contact me at: **muhammadsubhan8934@gmail.com**
+
+- ## 📫 Connect with Me
+-  **muhammadsubhan8934@gmail.com**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-subhan-321821231)
+
 
 ---
 
@@ -47,8 +52,3 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 - [Certificate: OOP](#)
 - [Bootcamp Certificate: HTML, CSS, JavaScript](#)
 
----
-
-## 📫 Connect with Me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-subhan-321821231)
