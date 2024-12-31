@@ -2,7 +2,7 @@
 
 A **Software Engineer** passionate about creative frontend solutions and efficient backend development.
 
-- 🌱 I’m currently learning **Node.js** and **Express.js** and **Socket.io**
+- 🌱 I’m currently working as a Full Stack Developer
 - 👯 I’m looking to collaborate on **web development** and **AI projects**
 - ⚡ Fun fact: I love solving challenging problems with technology.
 
