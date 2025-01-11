@@ -44,10 +44,7 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 
 ## 🔥 Streak Stats
 
-
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=mu-subhan&theme=radical&v=2)
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=mu-subhan&theme=radical)
 
 ---
 
