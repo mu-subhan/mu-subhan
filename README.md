@@ -2,7 +2,7 @@
 
 A **Software Engineer** passionate about creative frontend solutions and efficient backend development.
 
-- 🌱 I’m currently working as a Full Stack Developer
+- 🌱 I’m currently working as a Full Stack MERN Developer
 - 👯 I’m looking to collaborate on **web development** and **AI projects**
 - ⚡ Fun fact: I love solving challenging problems with technology.
 
