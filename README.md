@@ -1,4 +1,4 @@
-## 👋 Hi, I'm Muhammad Subhan
+## 👋 Hi, I am Muhammad Subhan
 
 A **Software Engineer** passionate about creative frontend solutions and efficient backend development.
 
