@@ -4,7 +4,7 @@ A **Software Engineer** passionate about creative frontend solutions and efficie
 
 - 🌱 I’m currently working as a Full Stack MERN Developer
 - 👯 I’m looking to collaborate on **web development** and **AI projects**
-- ⚡ Fun fact: I love solving challenging problems with technology.
+- ⚡ Fun fact: I love to solve challenging problems with technology.
 
 - ## 📫 Connect with Me
 -  **muhammadsubhan8934@gmail.com**
